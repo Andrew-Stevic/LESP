@@ -14,3 +14,5 @@ The end goal of this project is to submit a mass amount of evidence to the Linke
 Please see the CODE OF CONDUCT document for additional rules regarding submitting links.
 
 Please see the Tactics, Techniques, and Procedures document  for how these scammers typically operate, how you can confirm that the scammer is actually conducting a scam or offering exam taking services.
+
+License: This is an open-source community project and as such welcomes submissions from the community. However, for the purposes of having one repository to submit to LinkedIn, please do not fork this project to create your own, as this would create unnecessary noise.
